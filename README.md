@@ -8,8 +8,7 @@ Template for a Haskell project.
 
 This project relies on the [Haskell Stack tool](https://docs.haskellstack.org/en/stable/README/).
 
-It is recommended to get Stack with batteries included by
-installing [Haskell Platform](https://www.haskell.org/platform/).
+It is recommended that you follow the instructions on how to install Haskell with Stack on [Haskell's official Downloads page](https://www.haskell.org/downloads/#stack).
 
 ## Build
 
