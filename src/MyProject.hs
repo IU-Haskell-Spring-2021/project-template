@@ -1,4 +1,6 @@
 module MyProject where
 
+import           CodeWorld
+
 run :: IO ()
-run = putStrLn "Hello, world!"
+run = drawingOf blank
